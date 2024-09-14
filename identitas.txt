@@ -1,0 +1,3 @@
+Nama = Brian Salomo Rempas
+NIM = 2405551179
+Username Hackerrank = @brianrempas
